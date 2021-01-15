@@ -10,8 +10,4 @@ I'm chencc, a full stack developer in China. I'd like to make something for cont
 
 ### Languages
 
-- javascript
-- nodejs
-- typescript
-- java
-- python
+javascript nodejs typescript java mysql postgresql mongodb GraphQL(studying)
