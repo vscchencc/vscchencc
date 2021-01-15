@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**vscchencc/vscchencc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm chencc, a full stack developer in China. I'd like to make something for contributions for javascript or typescript open source and share something thoughts on my blog and github.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ? null(It's a secret)
+- 🌱 I’m currently learning algorithm.
+- 💬 My Blog: [chencc](https://vscchencc.github.io/)
+- 📫 How to reach me ? leave me messages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages
+
+- javascript
+- nodejs
+- typescript
+- java
+- python
